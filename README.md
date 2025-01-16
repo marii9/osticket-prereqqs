@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 1, Installion of PHP Manager and within that folder install the Rewrite Module
+- Item 2, My Sql download.
+- Item 3, Configuring os ticket, enter database information such as login and password.
+- Item 4, after the setup delete folders for securtiy purposes
+- Item 5, access the admin panel.
 
 <h2>Installation Steps</h2>
 
